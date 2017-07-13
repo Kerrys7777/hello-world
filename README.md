@@ -1,4 +1,3 @@
-# hello-world
-Hello World
+## Hello World
 
-Located in Sydney, Australia.
+This repo is for all my supporting files + general practice.
